@@ -34,7 +34,7 @@ The cells in the notebook may be run sequentially in order to obtain the analysi
 
 ## Results<a name="results"/>
 
-An overview of results is described [here](https://).
+An overview of results is described [here](https://nmiclass.github.io/blog/).
 
 ## Licensing<a name="licensing"/>
 
