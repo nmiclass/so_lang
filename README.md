@@ -38,4 +38,4 @@ An overview of results is described [here](https://).
 
 ## Licensing<a name="licensing"/>
 
-The Stack Overflow Annual Developer Survey data is available at [https://insights.stackoverflow.com/survey][https://insights.stackoverflow.com/survey], and is the sole ownership of Stack Overflow.  The analysis notebook is freely available for usage or modification, and is released to the public domain.
+The Stack Overflow Annual Developer Survey data is available at [https://insights.stackoverflow.com/survey](https://insights.stackoverflow.com/survey), and is the sole ownership of Stack Overflow.  The analysis notebook is freely available for usage or modification, and is released to the public domain.
